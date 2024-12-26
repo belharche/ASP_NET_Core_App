@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Auction ASP Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62d362b245185da9f3b698b7f84cae57505bf99a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Auction ASP Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Auction ASP Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
