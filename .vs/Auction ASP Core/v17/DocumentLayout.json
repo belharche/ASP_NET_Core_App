@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|c:\\users\\brahim\\desktop\\auction asp app\\auction asp core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|c:\\users\\brahim\\desktop\\auction asp app\\auction asp core\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|solutionrelative:controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|c:\\users\\brahim\\desktop\\auction asp app\\auction asp core\\data\\services\\listingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|solutionrelative:data\\services\\listingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|c:\\users\\brahim\\desktop\\auction asp app\\auction asp core\\data\\services\\ilistingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|solutionrelative:data\\services\\ilistingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|c:\\users\\brahim\\desktop\\auction asp app\\auction asp core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|c:\\users\\brahim\\desktop\\auction asp app\\auction asp core\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|c:\\users\\brahim\\desktop\\auction asp app\\auction asp core\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|c:\\users\\brahim\\desktop\\auction asp app\\auction asp core\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|solutionrelative:models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|c:\\users\\brahim\\desktop\\auction asp app\\auction asp core\\models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}|Auction ASP Core.csproj|solutionrelative:models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListingService.cs",
+              "DocumentMoniker": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Data\\Services\\ListingService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\ListingService.cs",
+              "ToolTip": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Data\\Services\\ListingService.cs",
+              "RelativeToolTip": "Data\\Services\\ListingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:05:09.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IListingService.cs",
+              "DocumentMoniker": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Data\\Services\\IListingService.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\IListingService.cs",
+              "ToolTip": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Data\\Services\\IListingService.cs",
+              "RelativeToolTip": "Data\\Services\\IListingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:04:41.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListingsController.cs",
+              "DocumentMoniker": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Controllers\\ListingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ListingsController.cs",
+              "ToolTip": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Controllers\\ListingsController.cs",
+              "RelativeToolTip": "Controllers\\ListingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T00:53:50.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T00:37:18.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T00:24:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T00:22:05.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T23:33:24.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Models\\Bid.cs",
+              "RelativeDocumentMoniker": "Models\\Bid.cs",
+              "ToolTip": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Models\\Bid.cs",
+              "RelativeToolTip": "Models\\Bid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T23:33:05.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Listing.cs",
+              "DocumentMoniker": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Models\\Listing.cs",
+              "RelativeDocumentMoniker": "Models\\Listing.cs",
+              "ToolTip": "C:\\Users\\brahim\\Desktop\\Auction ASP app\\Auction ASP Core\\Models\\Listing.cs",
+              "RelativeToolTip": "Models\\Listing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T23:13:47.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

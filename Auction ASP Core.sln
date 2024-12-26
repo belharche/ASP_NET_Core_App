@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auction ASP Core", "Auction ASP Core.csproj", "{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF6BE5E-9180-4FC4-9637-CAE641B43EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8270B7E4-61A7-4009-A390-D0A7926472F6}
+	EndGlobalSection
+EndGlobal
